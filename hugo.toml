@@ -1,0 +1,4 @@
+baseURL = 'https://Tinganblog.org/'
+languageCode = 'zh-Hant-TW'
+title = 'My New Hugo Site'
+theme = 'ananke'
